@@ -1,2 +1,2 @@
-S1 Github
-Versión 1
+S1 local
+Versión 2
